@@ -1,3 +1,3 @@
 ### Hi there 👋
 
- <img src="./banner.gif" width="50">
+ <img src="./banner.gif" width="100%">
