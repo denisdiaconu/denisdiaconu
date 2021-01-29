@@ -1,1 +1,1 @@
-### <img src="./banner.gif" width="100">
+### <img src="images/banner.gif" width="100">
