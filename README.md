@@ -53,5 +53,5 @@ I'm a **Frontend Developer** who loves building fast, accessible, and responsive
 ### ✨ Fun Facts
 
 - 💡 I enjoy turning complex ideas into simple, reusable UI components  
-- ✨ I believe good UI is invisible — it just works  
+- ✨ I strive to build interfaces that feel effortless and intuitive for users
 - 📚 I’ve mentored developers remotely as part of the Microverse program  
