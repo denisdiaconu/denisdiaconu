@@ -34,19 +34,11 @@ I'm a **Frontend Developer** who loves building fast, accessible, and responsive
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=denisdiaconu&show_icons=true&theme=tokyonight" 
-    alt="Denis' GitHub Stats" 
-    style="max-width: 420px; width: 100%;" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=denisdiaconu&show_icons=true&theme=tokyonight" alt="Denis' GitHub Stats" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=denisdiaconu&theme=tokyonight" 
-    alt="GitHub Streak" 
-    style="max-width: 420px; width: 100%;" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denisdiaconu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
