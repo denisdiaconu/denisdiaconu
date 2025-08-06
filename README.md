@@ -39,7 +39,7 @@ I'm a **Frontend Developer** who loves building fast, accessible, and responsive
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denisdiaconu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=denisdiaconu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
